@@ -39,7 +39,6 @@ _New repo every week; coffee optional, enthusiasm mandatory._
 
 ---
 
-### 🗺️ Roadmap at a Glance
 ### 🗺️ What I’m Building Next
 - Prompt-injection / jailbreak testing notes + small tooling
 - Practical Linux hardening scripts and repeatable checklists
